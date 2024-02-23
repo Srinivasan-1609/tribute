@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eeea1a;
+}
+
+.container {
+    width: 800px;
+    background-color: #e6a61c;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #a7fae1;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+img {
+    display: block;
+    margin: 0 auto 20px;
+    width: 200px;
+    height: auto;
+}
+
+p {
+    margin-bottom: 20px;
+}
